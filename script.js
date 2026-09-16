@@ -33,11 +33,9 @@ function storyPanel(d) {
       </div>
       ${image.caption ? `<figcaption>${escapeHtml(image.caption)}</figcaption>` : ''}
     </figure>` : '';
-  return `<details class="story-panel">
+  return `<div class="story-preview">${imageMarkup}</div><details class="story-panel">
     <summary>Read a story<span aria-hidden="true">↗</span></summary>
-    <div class="story-content">
-      ${imageMarkup}
-      <div><div class="eyebrow">${escapeHtml(story.perspective || 'Perspective')}</div>
+    <div class="story-content"><div><div class="eyebrow">${escapeHtml(story.perspective || 'Perspective')}</div>
       <h4>${escapeHtml(story.title)}</h4><p>${escapeHtml(story.story)}</p></div>
     </div>
   </details>`;
