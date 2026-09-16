@@ -1,0 +1,52 @@
+{
+  "remote-work-better-than-office": {
+    "title": "The room I made for focus",
+    "story": "At 8:47 each morning, Maya closes the door to the spare room and leaves her phone in the kitchen. The first few weeks felt strangely quiet. Then she noticed the small things returning: an uninterrupted train of thought, lunch eaten away from a keyboard, and enough energy to call her father after work. She still misses the easy laughter of an office, but she no longer believes collaboration has to happen in one particular room.",
+    "perspective": "pro",
+    "image": {
+      "src": "assets/stories/remote-work.svg",
+      "alt": "A desk by a bright window with a laptop, notebook, and houseplant",
+      "caption": "A quiet workspace can make autonomy tangible, but it cannot replace every kind of shared ritual."
+    }
+  },
+  "casual-dating-worth-it": {
+    "title": "No promises, honest expectations",
+    "story": "Jonah and Priya agreed that their first dinner would come with no plan for a second. That made the evening lighter, not less meaningful. They talked about their families, traded recommendations for late-night diners, and said plainly what each of them could offer. Months later, the relationship had ended without a dramatic betrayal. What stayed with Jonah was the lesson that casual only works when nobody has to guess what the other person means.",
+    "perspective": "pro",
+    "image": {
+      "src": "assets/stories/casual-dating.svg",
+      "alt": "Two coffee cups and handwritten notes on a small cafe table",
+      "caption": "Low-pressure connection still asks for clarity when feelings and expectations begin to change."
+    }
+  },
+  "ai-replace-doctors": {
+    "title": "The question the screen could not ask",
+    "story": "The symptom checker identified three likely causes before Elena had finished describing the pain. It was impressive, and it was not enough. Her doctor noticed that she kept looking at the door, asked whether she felt safe at home, and changed the conversation entirely. The software had found a pattern. The person in front of her had found the reason she was afraid to talk about it.",
+    "perspective": "against",
+    "image": {
+      "src": "assets/stories/ai-doctors.svg",
+      "alt": "A clinician's desk with a medical chart beside a softly glowing monitor",
+      "caption": "Pattern recognition can widen access to care, while trust and context remain deeply human responsibilities."
+    }
+  },
+  "four-day-workweek": {
+    "title": "The Friday that became a life",
+    "story": "When the pilot began, Leila treated Fridays like an extra Saturday. By the third month, she had learned to protect the day instead of filling it with errands. She took her son to the library, helped her neighbor repair a fence, and returned Monday with a clearer sense of what mattered. Her team had to rethink handoffs, but the shorter week did not feel like less ambition. It felt like ambition with somewhere to go when the laptop closed.",
+    "perspective": "pro",
+    "image": {
+      "src": "assets/stories/four-day-workweek.svg",
+      "alt": "A calendar with Friday highlighted beside a closed laptop and a bicycle helmet",
+      "caption": "A shorter workweek changes more than a calendar; it changes what people can make time for."
+    }
+  },
+  "social-media-responsibility": {
+    "title": "The post that found the whole town",
+    "story": "A false rumor about the community clinic reached thousands before lunch. By evening, the clinic's staff were answering frightened calls instead of treating patients. The platform removed the post the next day, but the damage had already become part of the town's memory. Accountability did not mean deciding every argument for everyone. It meant admitting that a system built to amplify attention also has a duty to notice when amplification becomes harm.",
+    "perspective": "pro",
+    "image": {
+      "src": "assets/stories/social-media.svg",
+      "alt": "A phone displaying a social feed beside printed community notices",
+      "caption": "When platforms decide what travels fastest, responsibility follows the reach they create."
+    }
+  }
+}

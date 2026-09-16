@@ -1,0 +1,10 @@
+{
+  "name": "ponderly",
+  "private": true,
+  "scripts": {
+    "build:images": "node scripts/optimize-images.js"
+  },
+  "devDependencies": {
+    "sharp": "^0.33.5"
+  }
+}
